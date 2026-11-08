@@ -126,7 +126,7 @@ deleteButton:RegisterForClicks("LeftButtonUp")
 deleteButton:SetScript("OnClick", MaliShards_Delete)
 
 BINDING_HEADER_MALISHARDS = "MaliShards"
-BINDING_NAME_MALISHARDS_DELETE = "Delete one excess Soul Shard"
+BINDING_NAME_MALISHARDS_DELETE = "Trim Soul Shard"
 
 -- Macro creation
 local function EnsureMacro(silent)
