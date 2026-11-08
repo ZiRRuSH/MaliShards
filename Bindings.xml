@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="MALISHARDS_DELETE" header="MALISHARDS">
+        MaliShards_Delete();
+    </Binding>
+</Bindings>

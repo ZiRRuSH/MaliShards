@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: MaliShards
+## Notes: Keep your souls. Lose the excess.
+## Author: Mali Gnosis
+## Version: 0.2.3
+## IconTexture: Interface\Icons\INV_Misc_Gem_Amethyst_02
+## Category: Inventory
+## SavedVariablesPerCharacter: MaliShardsDB
+MaliShards.lua
